@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.12) (format=lualatex 2023.9.5)  4 DEC 2023 22:44
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.12) (format=lualatex 2023.9.5)  4 DEC 2023 22:47
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1211,7 +1211,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:1,2:1347,3:417,4:318,5:1858,6:160,7:12174,8:145,9:946,10:16,11
 :1038
  53726 multiletter control sequences out of 65536+200000
- 134 fonts using 40009391 bytes
+ 134 fonts using 40009163 bytes
  121i,12n,127p,759b,1086s stack positions out of 5000i,500n,10000p,200000b,50000s
 <//?/c:/users/zzhou/appdata/local/programs/miktex/fonts/opentype/adobe/sourcesan
 spro/sourcesanspro-regularit.otf><//?/c:/users/zzhou/appdata/local/programs/mikt
@@ -1228,7 +1228,7 @@ s/miktex/fonts/opentype/public/fontawesome5/fontawesome5brands-regular-400.otf><
 me5/fontawesome5free-solid-900.otf><//?/c:/users/zzhou/appdata/local/programs/mi
 ktex/fonts/opentype/google/roboto/roboto-italic.otf><//?/c:/users/zzhou/appdata/
 local/programs/miktex/fonts/opentype/google/roboto/roboto-regular.otf>
-Output written on resume.pdf (3 pages, 79041 bytes).
+Output written on resume.pdf (3 pages, 79043 bytes).
 
 PDF statistics: 122 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 131072)
