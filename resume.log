@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.12) (format=lualatex 2023.9.5)  4 DEC 2023 22:47
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.12) (format=lualatex 2023.9.5)  8 DEC 2023 13:47
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1181,6 +1181,9 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 
 {C:/Users/zzhou/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]) (./cv/projects
 .tex) (./cv/skills.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 25.
+
 Overfull \hbox (51.31792pt too wide) in alignment at lines 10--29
 [] []
  []
@@ -1203,16 +1206,16 @@ rceSansPro(0)/m/n/9 , []$\TU/lmtt/m/n/9 https://www.researchgate.net/publication
 ) (./cv/presentation.tex) [3] (./resume.aux))
 
 Here is how much of LuaTeX's memory you used:
- 35361 strings out of 478903
+ 35362 strings out of 478903
  125086,1373583 words of node,token memory allocated
  660 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 10 attribute, 81 glue_spec
 , 10 attribute_list, 2 write, 2 pdf_action nodes
-   avail lists: 1:1,2:1347,3:417,4:318,5:1858,6:160,7:12174,8:145,9:946,10:16,11
-:1038
- 53726 multiletter control sequences out of 65536+200000
- 134 fonts using 40009163 bytes
- 121i,12n,127p,759b,1086s stack positions out of 5000i,500n,10000p,200000b,50000s
+   avail lists: 1:1,2:1347,3:417,4:318,5:1860,6:160,7:12172,8:145,9:952,10:16,11
+:1034
+ 53727 multiletter control sequences out of 65536+200000
+ 135 fonts using 40362139 bytes
+ 121i,12n,127p,763b,1086s stack positions out of 5000i,500n,10000p,200000b,50000s
 <//?/c:/users/zzhou/appdata/local/programs/miktex/fonts/opentype/adobe/sourcesan
 spro/sourcesanspro-regularit.otf><//?/c:/users/zzhou/appdata/local/programs/mikt
 ex/fonts/opentype/public/lm/lmmono9-regular.otf><//?/c:/users/zzhou/appdata/loca
@@ -1228,7 +1231,7 @@ s/miktex/fonts/opentype/public/fontawesome5/fontawesome5brands-regular-400.otf><
 me5/fontawesome5free-solid-900.otf><//?/c:/users/zzhou/appdata/local/programs/mi
 ktex/fonts/opentype/google/roboto/roboto-italic.otf><//?/c:/users/zzhou/appdata/
 local/programs/miktex/fonts/opentype/google/roboto/roboto-regular.otf>
-Output written on resume.pdf (3 pages, 79043 bytes).
+Output written on resume.pdf (3 pages, 79181 bytes).
 
 PDF statistics: 122 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 131072)
