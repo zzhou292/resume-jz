@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.31)  21 FEB 2024 15:11
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.31)  13 MAR 2024 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,9 +1263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
-) (./cv/experience.tex
-Requested font "[lmmono9-regular]:" at 9.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf
+) (./cv/skills.tex
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
 t 9.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
@@ -1309,21 +1307,6 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 4.99947pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 53.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
-g=tex-text;" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
-Pro-Regular.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 53.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
-mapping=tex-text;" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
-Pro-Regular.otf
- [1
-
-]) (./cv/projects.tex) (./cv/skills.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 25.
 Requested font "[SourceSansPro-Light.otf]/OT:script=latn;language=dflt;mapping=
@@ -1335,23 +1318,41 @@ Overfull \hbox (51.3179pt too wide) in alignment at lines 10--29
 [] [] 
  []
 
-) (./cv/contributed.tex
+) (./cv/experience.tex
+Requested font "[lmmono9-regular]:" at 9.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 57.
+Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
+g=tex-text;" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
+Pro-Regular.otf
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 57.
+Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
+mapping=tex-text;" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
+Pro-Regular.otf
+ [1
+
+]) (./cv/projects.tex) (./cv/contributed.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 12.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 17.
+(Font)              scaled to size 9.0pt on input line 16.
 Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Bold.otf
-) (./cv/publication.tex
+ [2])
+(./cv/publication.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 17.
 Requested font "[SourceSansPro-RegularIt.otf]/OT:script=latn;language=dflt;mapp
 ing=tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-RegularIt.otf
- [2]
+
 Overfull \hbox (2.63809pt too wide) in paragraph at lines 29--30
 \TU/SourceSansPro(0)/m/n/9 2021/10, \TU/SourceSansPro(0)/m/it/9 Preprint\TU/Sou
 rceSansPro(0)/m/n/9 , []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][]
@@ -1362,12 +1363,12 @@ rceSansPro(0)/m/n/9 , []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][]
 
 ) (./cv/presentation.tex) [3] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 33090 strings out of 476191
- 673109 string characters out of 5812072
- 1151437 words of memory out of 5000000
+ 33091 strings out of 476191
+ 673113 string characters out of 5812072
+ 1151418 words of memory out of 5000000
  53221 multiletter control sequences out of 15000+600000
  473417 words of font info for 136 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 114i,12n,127p,820b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 114i,12n,127p,970b,823s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (3 pages).
