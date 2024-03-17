@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  16 MAR 2024 14:41
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  17 MAR 2024 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1319,8 +1319,6 @@ Overfull \hbox (51.3179pt too wide) in alignment at lines 10--29
  []
 
 ) (./cv/experience.tex
-Requested font "[lmmono9-regular]:" at 9.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 57.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
@@ -1335,16 +1333,20 @@ mapping=tex-text;" at 8.0pt
 Pro-Regular.otf
  [1
 
-]) (./cv/projects.tex) (./cv/contributed.tex
+]
+Requested font "[lmmono9-regular]:" at 9.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf
+) (./cv/projects.tex) (./cv/contributed.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 12.
+ [2]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 16.
 Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Bold.otf
- [2])
+)
 (./cv/publication.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 17.
@@ -1365,7 +1367,7 @@ rceSansPro(0)/m/n/9 , []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][]
 Here is how much of TeX's memory you used:
  33091 strings out of 476191
  673113 string characters out of 5812072
- 1151409 words of memory out of 5000000
+ 1148409 words of memory out of 5000000
  53221 multiletter control sequences out of 15000+600000
  473417 words of font info for 136 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
