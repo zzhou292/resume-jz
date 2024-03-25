@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  25 MAR 2024 13:43
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  25 MAR 2024 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1341,13 +1341,13 @@ Pro-Bold.otf
 )
 (./cv/publication.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 17.
+(Font)              scaled to size 9.0pt on input line 19.
 Requested font "[SourceSansPro-RegularIt.otf]/OT:script=latn;language=dflt;mapp
 ing=tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-RegularIt.otf
 
-Overfull \hbox (2.63809pt too wide) in paragraph at lines 29--30
+Overfull \hbox (2.63809pt too wide) in paragraph at lines 31--32
 \TU/SourceSansPro(0)/m/n/9 2021/10, \TU/SourceSansPro(0)/m/it/9 Preprint\TU/Sou
 rceSansPro(0)/m/n/9 , []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][]
  [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][
